@@ -1,0 +1,17 @@
+D:\Code\Rover\Rover.Test\obj\Debug\Rover.Test.csprojAssemblyReference.cache
+D:\Code\Rover\Rover.Test\obj\Debug\Rover.Test.csproj.CoreCompileInputs.cache
+D:\Code\Rover\Rover.Test\bin\Debug\Rover.Test.dll.config
+D:\Code\Rover\Rover.Test\bin\Debug\Rover.Test.dll
+D:\Code\Rover\Rover.Test\bin\Debug\Rover.Test.pdb
+D:\Code\Rover\Rover.Test\bin\Debug\Rover.exe
+D:\Code\Rover\Rover.Test\bin\Debug\Rover.pdb
+D:\Code\Rover\Rover.Test\bin\Debug\Rover.exe.config
+D:\Code\Rover\Rover.Test\obj\Debug\Rover.Test.csproj.CopyComplete
+D:\Code\Rover\Rover.Test\obj\Debug\Rover.Test.dll
+D:\Code\Rover\Rover.Test\obj\Debug\Rover.Test.pdb
+D:\Code\Rover\Rover.Test\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+D:\Code\Rover\Rover.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Code\Rover\Rover.Test\bin\Debug\Newtonsoft.Json.dll
+D:\Code\Rover\Rover.Test\bin\Debug\FluentAssertions.dll
+D:\Code\Rover\Rover.Test\bin\Debug\FluentAssertions.pdb
+D:\Code\Rover\Rover.Test\bin\Debug\FluentAssertions.xml
